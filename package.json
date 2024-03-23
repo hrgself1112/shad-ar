@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hrgself1112/shad-ar.git",
+  "license": "MIT",
+  "scripts": {
+    "dev-all": "concurrently \"cd client && yarn run dev\" \"cd server && yarn run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

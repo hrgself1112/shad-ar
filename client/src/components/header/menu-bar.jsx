@@ -28,7 +28,11 @@ import Link from "next/link";
             <MenubarItem>
             <Link href="/article">Articles</Link>
             </MenubarItem>
-            <MenubarItem >New Incognito Window</MenubarItem>
+            <MenubarItem >
+              
+            <Link href="/article-validator">Articles validator</Link>
+
+            </MenubarItem>
             <MenubarSeparator />
             <MenubarSub>
               <MenubarSubTrigger>Share</MenubarSubTrigger>
