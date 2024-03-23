@@ -1,0 +1,197 @@
+{
+    "Tamil": {
+      "uniqueFindingKey": "searchTamil",
+      "uniqueKey": "Tamil",
+      "searchTamil": true,
+      "profilename": "S Raja",
+      "profileUrl": "https://horoscope.astrosage.com/s-raja/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2021/12/raja.jpg",
+      "FaqLangH2": "அடிக்கடி கேட்கப்படும் கேள்விகள்"
+    },
+    "Telugu": {
+      "uniqueFindingKey": "searchTelugu",
+      "uniqueKey": "Telugu",
+      "searchTelugu": true,
+      "profilename": "C.V. Viswanath",
+      "profileUrl": "https://horoscope.astrosage.com/c-v-viswanath/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/02/viswanath.jpg",
+      "FaqLangH2": "తరచుగా అడుగు ప్రశ్నలు"
+    },
+    "Gujarati": {
+      "uniqueFindingKey": "searchGujarati",
+      "uniqueKey": "Gujarati",
+      "searchGujarati": true,
+      "profilename": "Sanghani Jasmin",
+      "profileUrl": "https://horoscope.astrosage.com/sanghani-jasmin/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/10/sanghani-jasmin.jpg",
+      "FaqLangH2": "વારંવાર પૂછવામાં આવતા પ્રશ્નો"
+    },
+    "Marathi": {
+      "uniqueFindingKey": "searchMarathi",
+      "uniqueKey": "Marathi",
+      "searchMarathi": true,
+      "profilename": "Yogita Palod",
+      "profileUrl": "https://horoscope.astrosage.com/yogita-palod/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/02/yogita-1.jpg",
+      "FaqLangH2": "नेहमी विचारले जाणारे प्रश्न"
+    },
+    "Malayalam": {
+      "uniqueFindingKey": "searchMalayalam",
+      "uniqueKey": "Malayalam",
+      "searchMalayalam": true,
+      "profilename": "Ashish John",
+      "profileUrl": "https://horoscope.astrosage.com/ashish-john/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/11/ashish-john.jpg",
+      "FaqLangH2": "പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾ"
+    },
+    "Odia": {
+      "uniqueFindingKey": "searchOdia",
+      "uniqueKey": "Odia",
+      "searchOdia": true,
+      "profilename": "Monica Rajguru",
+      "profileUrl": "https://horoscope.astrosage.com/monica-rajguru/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/11/monica-rajguru.jpg",
+      "FaqLangH2": "ବାରମ୍ବାର ପଚରା ଯାଉଥିବା ପ୍ରଶ୍ନ"
+    },
+    "Assamesse": {
+      "uniqueFindingKey": "searchAssamesse",
+      "uniqueKey": "Assamesse",
+      "searchAssamesse": true,
+      "profilename": "Lobitha Dutta",
+      "profileUrl": "https://horoscope.astrosage.com/lobitha-dutta/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/11/lobhita-dutta.jpg",
+      "FaqLangH2": "সঘনাই সোধা প্ৰশ্ন"
+    },
+    "Kannada": {
+      "uniqueFindingKey": "searchKannada",
+      "uniqueKey": "Kannada",
+      "searchKannada": true,
+      "profilename": "Sudha Bangera",
+      "profileUrl": "https://horoscope.astrosage.com/sudha-bangera/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/02/sudha.jpg",
+      "FaqLangH2": "ಹೆಚ್ಚಾಗಿ ಕೇಳುವ ಪ್ರಶ್ನೆಗಳು"
+    },
+    "Bengali": {
+      "uniqueFindingKey": "searchBengali",
+      "uniqueKey": "Bengali",
+      "searchBengali": true,
+      "profilename": "Pallabi Pal",
+      "profileUrl": "https://horoscope.astrosage.com/pallabi-pal/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/02/pallabi-1.jpg",
+      "FaqLangH2": "সর্বদা জিজ্ঞেস করণীয় প্রশ্ন"
+    },
+    "Punjabi": {
+      "uniqueFindingKey": "searchPunjabi",
+      "uniqueKey": "Punjabi",
+      "searchPunjabi": true,
+      "profilename": "AstroGuru Mragaank (Dr. Mragaank)",
+      "profileUrl": "https://horoscope.astrosage.com/author-astroguru-mragaank/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2019/07/mragaank.jpg",
+      "FaqLangH2": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲ਼ੇ ਪ੍ਰਸ਼ਨ"
+    },
+    "Urdu": {
+      "uniqueFindingKey": "searchUrdu",
+      "uniqueKey": "Urdu",
+      "searchUrdu": true,
+      "profilename": "Mohd. Tahir",
+      "profileUrl": "#",
+      "profileImageUrl": "#",
+      "FaqLangH2": "اکثر پوچھے جانے والے سوال"
+    },
+    "Mragaank": {
+      "uniqueFindingKey": "searchMragaank",
+      "uniqueKey": "Mragaank",
+      "searchMragaank": true,
+      "profilename": "AstroGuru Mragaank (Dr. Mragaank)",
+      "profileUrl": "https://horoscope.astrosage.com/author-astroguru-mragaank/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2019/07/mragaank.jpg"
+    },
+    "Charulata": {
+      "uniqueFindingKey": "searchCharulata",
+      "uniqueKey": "Charulata",
+      "searchCharulata": true,
+      "profilename": "Charu Lata",
+      "profileUrl": "#",
+      "profileImageUrl": "#"
+    },
+    "Hariharan": {
+      "uniqueFindingKey": "searchHariharan",
+      "uniqueKey": "Hariharan",
+      "searchHariharan": true,
+      "profilename": "Astro Hariharan",
+      "profileUrl": "https://horoscope.astrosage.com/astro-hariharan/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2021/11/astrologer-h.m.hariharan-1.jpg"
+    },
+    "Prashansa": {
+      "uniqueFindingKey": "searchPrashansa",
+      "uniqueKey": "Prashansa",
+      "searchPrashansa": true,
+      "profilename": "Prashansa",
+      "profileUrl": "https://horoscope.astrosage.com/prashansa/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2023/01/prashansa.jpg"
+    },
+    "Deepika": {
+      "uniqueFindingKey": "searchDeepika",
+      "uniqueKey": "Deepika",
+      "searchDeepika": true,
+      "profilename": "Deepika Gola",
+      "profileUrl": "https://horoscope.astrosage.com/hindi/deepika-gola/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/08/dipika-gola.jpg"
+    },
+    "AcharyaHanumanMishra": {
+      "uniqueFindingKey": "searchAcharyaHanumanMishra",
+      "uniqueKey": "AcharyaHanumanMishra",
+      "searchAcharyaHanumanMishra": true,
+      "profilename": "Acharya  Hanuman Mishra",
+      "profileUrl": "https://horoscope.astrosage.com/pandit-hanuman-mishra/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2023/03/astrologer-hanuman-mishra-1.jpg"
+    },
+    "PrashantNigam": {
+      "uniqueFindingKey": "searchPrashantNigam",
+      "uniqueKey": "PrashantNigam",
+      "searchPrashantNigam": true,
+      "profilename": "Prashant Nigam",
+      "profileUrl": "https://horoscope.astrosage.com/prashant-nigam/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2023/06/prashant-nigam.jpg"
+    },
+    "RuchiSharma": {
+      "uniqueFindingKey": "searchRuchiSharma",
+      "uniqueKey": "RuchiSharma",
+      "searchRuchiSharma": true,
+      "profilename": "Ruchi Sharma",
+      "profileUrl": "https://horoscope.astrosage.com/ruchi-sharma/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/10/author-ruchi.jpg"
+    },
+    "DrishtiMathur": {
+      "uniqueFindingKey": "searchDrishtiMathur",
+      "uniqueKey": "DrishtiMathur",
+      "searchDrishtiMathur": true,
+      "profilename": "Drishti Mathur",
+      "profileUrl": "https://horoscope.astrosage.com/drishti-mathur/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/11/drishti-mathur.jpg"
+    },
+    "AcharyaaParul": {
+      "uniqueFindingKey": "searchAcharyaaParul",
+      "uniqueKey": "AcharyaaParul",
+      "searchAcharyaaParul": true,
+      "profilename": "Acharyaa Parul",
+      "profileUrl": "https://horoscope.astrosage.com/acharyaa-parul-verma/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2021/11/astrologer-parul-verma.jpg"
+    },
+    "TarotVrushali": {
+      "uniqueFindingKey": "searchTarotVrushali",
+      "uniqueKey": "TarotVrushali",
+      "searchTarotVrushali": true,
+      "profilename": "Tarot Vrushali",
+      "profileUrl": "https://horoscope.astrosage.com/tarot-vrushali/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/09/vrushali-khadilkar-9397.jpg"
+    },
+    "AcharyaaKriti": {
+      "uniqueFindingKey": "searchAcharyaaKriti",
+      "uniqueKey": "AcharyaaKriti",
+      "searchAcharyaaKriti": true,
+      "profilename": "Acharyaa Kriti",
+      "profileUrl": "https://horoscope.astrosage.com/acharyaa-kriti/",
+      "profileImageUrl": "https://horoscope.astrosage.com/wp-content/uploads/2022/02/astrologer-kriti-1.jpg"
+    }
+  }

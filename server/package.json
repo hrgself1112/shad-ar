@@ -1,0 +1,36 @@
+{
+  "name": "astroeditorbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrgself1112/editorbackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrgself1112/editorbackend/issues"
+  },
+  "homepage": "https://github.com/hrgself1112/editorbackend#readme",
+  "dependencies": {
+    "@netlify/functions": "^2.5.1",
+    "archiver": "^6.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "html-prettify": "^1.0.7",
+    "js-beautify": "^1.14.11",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.4",
+    "nodemon": "^3.0.2",
+    "serverless-http": "^3.2.0",
+    "uuidv4": "^6.2.13"
+  }
+}

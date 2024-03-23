@@ -1,0 +1,85 @@
+<%- ResLineOne%>
+<!DOCTYPE html>
+<html>
+<head>
+    <!--#include virtual="/include/topmeta.asp"-->
+    <link rel="amphtml" href="https://www.astrosage.com/<%= newerPath%>/amp/<%= url%>">
+    <title><%= title %></title>
+    <meta name="keywords" content="<%= keywords%>" />
+    <meta name="description" content="<%= description %>" />
+    <meta name="twitter:image" content="<%= imgurlpath%>" />
+    <meta property="og:keywords" content="<%= keywords%>" />
+    <meta property="og:title" content="<%= title %>" />
+    <meta property="og:description" content="<%= description %>" />
+    <meta property="og:image" content="<%= imgurlpath%>" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@AstroSageSays" />
+    <meta name="twitter:creator" content="@AstroSageSays" />
+    <meta name="twitter:title" content="<%= title %>" />
+    <meta name="twitter:description" content="<%= description %>" />
+    <%- jsonLdScript%>
+    <script type="application/ld+json">
+    {
+    "@context":"https://schema.org",
+    "@type":"NewsArticle",
+    "mainEntityOfPage":{"@type":"WebPage",
+    "@id":"https://www.astrosage.com/<%= newerPath%>/<%= url%>"},
+    "url":"https://www.astrosage.com/<%= newerPath%>/<%= url%>",
+    "headline":"<%= title %>",
+    "datePublished":"<%= TimeRanges.getCurrentFormattedNumberDate %>T<%= TimeRanges.getCurrentFormattedTime%>+05:30",
+    "dateModified":"<%= TimeRanges.getCurrentFormattedNumberDate %>T<%= TimeRanges.getCurrentFormattedTime%>+05:30",
+    "publisher":{"@type":"Organization",
+    "@id":"https://www.astrosage.com",
+    "name":"AstroSage",
+    "logo":{"@type":"ImageObject",
+    "url":"https://www.astrosage.com/images/logo-lg.png",
+    "width":200,"height":60}},
+    "image":{"@type":"ImageObject",
+    "url":"<%= imgurlpath%>",
+    "width":1280,"height":720},
+    "articleSection":"<%= title %>",
+    "description":"<%= description %>",
+    "author":{"@type":"Person",
+    "name":"<%= AuthorProfile.profilename%>",
+    "url":"<%= AuthorProfile.profileUrl%>",
+    "image":{"@type":"ImageObject",
+    "url":"<%= AuthorProfile.profileImageUrl%>",
+    "height":120,"width":120},
+    "sameAs":["https://www.astrosage.com"]
+    }
+    }
+    </script>
+    <!--#include virtual="/include/client/cssscript-other.asp"-->
+</head>
+<body>
+    <%- Ressession%>
+    <!--#include virtual="/include/client/header-no.asp"-->
+    <div id="roundborder" class="ui-container ui-margin-tb">
+        <div id="roundtopheadid">
+            <div class="roundtophead">
+                <div class="AscTopHead" style="text-align: left;">
+                        <%- BreadCrumbs%> 
+                </div>
+            </div>
+        </div>
+        <div class="ui-content bg-light-gray">
+            <h1 align="center"><%= h1%></h1>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="author-date text-right">
+                        <span>Author: <a href="<%= AuthorProfile.profileUrl%>"><%= AuthorProfile.profilename%></a></span>
+                        | <span>Updated <%= TimeRanges.getCurrentFormattedDate%> <%= TimeRanges.getCurrentFormattedTimetwo%> <%= TimeRanges.getamOrpm%> IST </span>
+                           </div>
+                </div>
+            </div>
+
+            <%- processedContentNAMP%>
+            
+            <%- processedFaqNAMP%>
+                
+
+        </div>
+    </div>
+    <!--#include virtual = '/include/client/footer-no.asp'-->
+</body>
+</html>
